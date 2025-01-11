@@ -14,6 +14,7 @@ Below is a breakdown of some key projects by language and software. The PDF file
 
 #### Python
 - Deep Learning Analysis on the MNIST Fashion Dataset
+-   Python Projects/DeepLearning.pdf
 - Reinforcement Learning Analysis using Tic-Tac-Toe
 - Understanding Reinforcement Learning through Q-Learning
 
