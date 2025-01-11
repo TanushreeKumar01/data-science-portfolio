@@ -10,7 +10,7 @@ Equipped with a strong foundation in scientific principles and analytical thinki
 - B.S., Astrophysics | University of Illinois Urbana-Champaign (May 2023)
 
 ## Projects
-Below is a breakdown of some key projects by language and software. 
+Below is a breakdown of some key projects by language and software. The PDF file for each project can be found in the respective folder for each language/software. The files have been renamed to match the names below.
 
 #### Python
 - Deep Learning Analysis on the MNIST Fashion Dataset
