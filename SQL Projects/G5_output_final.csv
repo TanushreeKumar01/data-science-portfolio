@@ -1,0 +1,275 @@
+BU_Designation,BU_Name,Product,Region,Year,Month,"Sum of Quantity","Sum of Order Total"
+Growth,Energy,"Purple Pain",Midwest,2017,3,27,2835
+Growth,Energy,"Purple Pain",Midwest,2017,8,34,3570
+Growth,Energy,"Purple Pain",Midwest,2017,12,66,6930
+Growth,Energy,"Purple Pain",Midwest,2018,1,131,13755
+Growth,Energy,"Purple Pain",Midwest,2018,6,125,13125
+Growth,Energy,"Purple Pain",Midwest,2018,12,209,21945
+Growth,Energy,"Purple Pain",Midwest,2019,6,96,9072
+Growth,Energy,"Purple Pain",Midwest,2019,9,68,7140
+Growth,Energy,"Purple Pain",Midwest,2019,11,12,1260
+Growth,Energy,"Purple Pain",Midwest,2019,12,65,6825
+Growth,Energy,"Purple Pain",Northeast,2017,3,7,735
+Growth,Energy,"Purple Pain",Northeast,2017,8,44,4620
+Growth,Energy,"Purple Pain",Northeast,2018,4,101,10605
+Growth,Energy,"Purple Pain",Northeast,2018,11,55,5775
+Growth,Energy,"Purple Pain",Northeast,2019,3,3,315
+Growth,Energy,"Purple Pain",South,2017,4,55,5775
+Growth,Energy,"Purple Pain",South,2017,6,89,9345
+Growth,Energy,"Purple Pain",South,2017,10,71,7455
+Growth,Energy,"Purple Pain",South,2017,11,37,3885
+Growth,Energy,"Purple Pain",South,2017,12,14,1470
+Growth,Energy,"Purple Pain",South,2018,1,58,6090
+Growth,Energy,"Purple Pain",South,2018,3,416,43680
+Growth,Energy,"Purple Pain",South,2018,5,125,13125
+Growth,Energy,"Purple Pain",South,2018,6,81,8505
+Growth,Energy,"Purple Pain",South,2018,12,154,16170
+Growth,Energy,"Purple Pain",South,2019,4,44,4620
+Growth,Energy,"Purple Pain",South,2019,7,182,19110
+Growth,Energy,"Purple Pain",South,2019,8,12,1260
+Growth,Energy,"Purple Pain",South,2019,11,165,17325
+Growth,Energy,"Purple Pain",South,2019,12,38,3990
+Growth,Energy,"Purple Pain",West,2017,1,86,9030
+Growth,Energy,"Purple Pain",West,2017,2,93,9765
+Growth,Energy,"Purple Pain",West,2017,6,3,315
+Growth,Energy,"Purple Pain",West,2017,8,7,735
+Growth,Energy,"Purple Pain",West,2017,11,70,7350
+Growth,Energy,"Purple Pain",West,2018,1,159,16695
+Growth,Energy,"Purple Pain",West,2018,3,102,10710
+Growth,Energy,"Purple Pain",West,2018,5,129,13545
+Growth,Energy,"Purple Pain",West,2018,8,262,27510
+Growth,Energy,"Purple Pain",West,2018,10,98,10290
+Growth,Energy,"Purple Pain",West,2019,3,126,13230
+Growth,Energy,"Purple Pain",West,2019,7,24,2520
+Growth,Energy,"Purple Pain",West,2019,9,17,1785
+Growth,Energy,"Purple Pain",West,2019,10,15,1575
+Growth,Energy,"Purple Pain",West,2019,12,91,8599
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2017,2,64,14912
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2017,4,93,21669
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2017,5,126,29358
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2018,1,94,21902
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2018,6,254,59182
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2018,12,128,29824
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2019,1,61,14213
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2019,2,82,19106
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2019,4,44,10252
+Growth,Energy,"Red Hot Chili Peppers",Midwest,2019,10,77,17941
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2017,3,87,20271
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2017,4,77,17941
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2017,9,12,2796
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2018,5,130,30290
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2018,12,63,14679
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2019,1,20,4660
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2019,11,67,15611
+Growth,Energy,"Red Hot Chili Peppers",Northeast,2019,12,17,3961
+Growth,Energy,"Red Hot Chili Peppers",South,2017,1,23,5359
+Growth,Energy,"Red Hot Chili Peppers",South,2017,4,82,19106
+Growth,Energy,"Red Hot Chili Peppers",South,2017,5,44,10252
+Growth,Energy,"Red Hot Chili Peppers",South,2017,7,11,2563
+Growth,Energy,"Red Hot Chili Peppers",South,2018,1,312,72696
+Growth,Energy,"Red Hot Chili Peppers",South,2018,5,45,10485
+Growth,Energy,"Red Hot Chili Peppers",South,2018,6,162,37746
+Growth,Energy,"Red Hot Chili Peppers",South,2018,10,155,36115
+Growth,Energy,"Red Hot Chili Peppers",South,2019,1,24,5592
+Growth,Energy,"Red Hot Chili Peppers",South,2019,5,57,13281
+Growth,Energy,"Red Hot Chili Peppers",South,2019,9,59,13747
+Growth,Energy,"Red Hot Chili Peppers",South,2019,10,68,15844
+Growth,Energy,"Red Hot Chili Peppers",West,2017,1,42,9786
+Growth,Energy,"Red Hot Chili Peppers",West,2017,2,36,8388
+Growth,Energy,"Red Hot Chili Peppers",West,2017,10,9,2097
+Growth,Energy,"Red Hot Chili Peppers",West,2017,11,87,20271
+Growth,Energy,"Red Hot Chili Peppers",West,2017,12,39,9087
+Growth,Energy,"Red Hot Chili Peppers",West,2018,2,57,13281
+Growth,Energy,"Red Hot Chili Peppers",West,2018,3,38,8854
+Growth,Energy,"Red Hot Chili Peppers",West,2018,6,106,24698
+Growth,Energy,"Red Hot Chili Peppers",West,2018,8,131,30523
+Growth,Energy,"Red Hot Chili Peppers",West,2018,10,196,45668
+Growth,Energy,"Red Hot Chili Peppers",West,2018,11,172,40076
+Growth,Energy,"Red Hot Chili Peppers",West,2019,4,93,21669
+Growth,Energy,"Red Hot Chili Peppers",West,2019,12,158,36814
+Growth,Snack,"Crocodile Tears",Midwest,2017,2,42,6006
+Growth,Snack,"Crocodile Tears",Midwest,2017,3,90,12870
+Growth,Snack,"Crocodile Tears",Midwest,2017,5,94,13442
+Growth,Snack,"Crocodile Tears",Midwest,2018,1,101,14443
+Growth,Snack,"Crocodile Tears",Midwest,2018,2,166,23738
+Growth,Snack,"Crocodile Tears",Midwest,2018,6,30,4290
+Growth,Snack,"Crocodile Tears",Midwest,2018,7,59,8437
+Growth,Snack,"Crocodile Tears",Midwest,2018,8,173,24739
+Growth,Snack,"Crocodile Tears",Midwest,2018,10,69,9867
+Growth,Snack,"Crocodile Tears",Midwest,2019,4,43,6149
+Growth,Snack,"Crocodile Tears",Midwest,2019,9,5,715
+Growth,Snack,"Crocodile Tears",Midwest,2019,12,57,8151
+Growth,Snack,"Crocodile Tears",Northeast,2017,6,23,3289
+Growth,Snack,"Crocodile Tears",Northeast,2017,10,18,2574
+Growth,Snack,"Crocodile Tears",Northeast,2018,1,104,14872
+Growth,Snack,"Crocodile Tears",Northeast,2018,6,47,6721
+Growth,Snack,"Crocodile Tears",Northeast,2018,9,126,18018
+Growth,Snack,"Crocodile Tears",Northeast,2019,7,55,7865
+Growth,Snack,"Crocodile Tears",Northeast,2019,8,68,9724
+Growth,Snack,"Crocodile Tears",South,2017,4,83,11869
+Growth,Snack,"Crocodile Tears",South,2017,5,48,6864
+Growth,Snack,"Crocodile Tears",South,2017,8,5,715
+Growth,Snack,"Crocodile Tears",South,2017,11,67,9581
+Growth,Snack,"Crocodile Tears",South,2017,12,73,10439
+Growth,Snack,"Crocodile Tears",South,2018,1,439,62777
+Growth,Snack,"Crocodile Tears",South,2018,2,104,14872
+Growth,Snack,"Crocodile Tears",South,2018,3,217,31031
+Growth,Snack,"Crocodile Tears",South,2018,4,102,14586
+Growth,Snack,"Crocodile Tears",South,2018,5,120,17160
+Growth,Snack,"Crocodile Tears",South,2018,6,160,22880
+Growth,Snack,"Crocodile Tears",South,2018,7,129,18447
+Growth,Snack,"Crocodile Tears",South,2018,8,49,7007
+Growth,Snack,"Crocodile Tears",South,2018,9,144,20592
+Growth,Snack,"Crocodile Tears",South,2019,1,7,1001
+Growth,Snack,"Crocodile Tears",South,2019,2,17,2431
+Growth,Snack,"Crocodile Tears",South,2019,3,105,15015
+Growth,Snack,"Crocodile Tears",South,2019,4,128,18304
+Growth,Snack,"Crocodile Tears",South,2019,5,109,14257
+Growth,Snack,"Crocodile Tears",South,2019,6,83,11869
+Growth,Snack,"Crocodile Tears",South,2019,7,25,3575
+Growth,Snack,"Crocodile Tears",South,2019,8,48,6864
+Growth,Snack,"Crocodile Tears",South,2019,12,91,13013
+Growth,Snack,"Crocodile Tears",West,2017,6,66,9438
+Growth,Snack,"Crocodile Tears",West,2017,9,69,9867
+Growth,Snack,"Crocodile Tears",West,2017,10,92,13156
+Growth,Snack,"Crocodile Tears",West,2017,12,64,9152
+Growth,Snack,"Crocodile Tears",West,2018,1,116,16588
+Growth,Snack,"Crocodile Tears",West,2018,12,61,8723
+Growth,Snack,"Crocodile Tears",West,2019,7,12,1716
+Growth,Snack,"Crocodile Tears",West,2019,12,7,1001
+Mature,Health,"Panda Gummies",Midwest,2017,3,3,312
+Mature,Health,"Panda Gummies",Midwest,2017,4,11,1144
+Mature,Health,"Panda Gummies",Midwest,2017,12,87,9048
+Mature,Health,"Panda Gummies",Midwest,2018,9,126,13104
+Mature,Health,"Panda Gummies",Midwest,2018,12,107,11128
+Mature,Health,"Panda Gummies",Midwest,2019,3,71,7384
+Mature,Health,"Panda Gummies",Midwest,2019,6,79,8216
+Mature,Health,"Panda Gummies",Midwest,2019,8,33,3432
+Mature,Health,"Panda Gummies",Midwest,2019,11,2,208
+Mature,Health,"Panda Gummies",Northeast,2017,3,11,1144
+Mature,Health,"Panda Gummies",Northeast,2017,9,106,11024
+Mature,Health,"Panda Gummies",Northeast,2018,2,55,5720
+Mature,Health,"Panda Gummies",Northeast,2018,3,33,3432
+Mature,Health,"Panda Gummies",Northeast,2018,6,91,9464
+Mature,Health,"Panda Gummies",Northeast,2018,11,226,23504
+Mature,Health,"Panda Gummies",Northeast,2019,4,1,104
+Mature,Health,"Panda Gummies",Northeast,2019,12,38,3952
+Mature,Health,"Panda Gummies",South,2017,1,14,1456
+Mature,Health,"Panda Gummies",South,2017,2,98,10192
+Mature,Health,"Panda Gummies",South,2017,3,71,7384
+Mature,Health,"Panda Gummies",South,2017,7,68,7072
+Mature,Health,"Panda Gummies",South,2017,12,42,4368
+Mature,Health,"Panda Gummies",South,2018,4,217,22568
+Mature,Health,"Panda Gummies",South,2018,6,105,10920
+Mature,Health,"Panda Gummies",South,2018,9,325,33800
+Mature,Health,"Panda Gummies",South,2018,10,192,19968
+Mature,Health,"Panda Gummies",South,2018,12,248,25792
+Mature,Health,"Panda Gummies",South,2019,5,37,3848
+Mature,Health,"Panda Gummies",South,2019,6,99,10296
+Mature,Health,"Panda Gummies",South,2019,8,18,1872
+Mature,Health,"Panda Gummies",South,2019,11,96,8986
+Mature,Health,"Panda Gummies",West,2017,3,27,2808
+Mature,Health,"Panda Gummies",West,2017,7,5,520
+Mature,Health,"Panda Gummies",West,2017,9,19,1976
+Mature,Health,"Panda Gummies",West,2017,10,30,3120
+Mature,Health,"Panda Gummies",West,2017,11,84,8736
+Mature,Health,"Panda Gummies",West,2018,5,125,13000
+Mature,Health,"Panda Gummies",West,2018,7,40,4160
+Mature,Health,"Panda Gummies",West,2018,10,195,20280
+Mature,Health,"Panda Gummies",West,2018,11,157,16328
+Mature,Health,"Panda Gummies",West,2019,1,75,7800
+Mature,Health,"Panda Gummies",West,2019,5,95,8892
+Mature,Health,"Panda Gummies",West,2019,6,19,1976
+Mature,Health,"Panda Gummies",West,2019,9,20,2080
+Mature,Health,"Panda Gummies",West,2019,12,96,8986
+Mature,Lunchtime,"Green Lightning",Midwest,2018,2,33,5313
+Mature,Lunchtime,"Green Lightning",Midwest,2018,3,233,37513
+Mature,Lunchtime,"Green Lightning",Midwest,2018,10,155,24955
+Mature,Lunchtime,"Green Lightning",Midwest,2019,4,91,13186
+Mature,Lunchtime,"Green Lightning",Midwest,2019,5,64,10304
+Mature,Lunchtime,"Green Lightning",Midwest,2019,12,118,18998
+Mature,Lunchtime,"Green Lightning",Northeast,2018,5,105,16905
+Mature,Lunchtime,"Green Lightning",Northeast,2018,6,30,4830
+Mature,Lunchtime,"Green Lightning",Northeast,2018,8,347,55867
+Mature,Lunchtime,"Green Lightning",Northeast,2018,11,134,21574
+Mature,Lunchtime,"Green Lightning",Northeast,2019,2,45,7245
+Mature,Lunchtime,"Green Lightning",Northeast,2019,10,9,1449
+Mature,Lunchtime,"Green Lightning",South,2018,1,58,9338
+Mature,Lunchtime,"Green Lightning",South,2018,2,274,44114
+Mature,Lunchtime,"Green Lightning",South,2018,5,318,51198
+Mature,Lunchtime,"Green Lightning",South,2018,10,123,19803
+Mature,Lunchtime,"Green Lightning",South,2018,12,91,14651
+Mature,Lunchtime,"Green Lightning",South,2019,1,29,4669
+Mature,Lunchtime,"Green Lightning",South,2019,2,68,10948
+Mature,Lunchtime,"Green Lightning",South,2019,5,47,7567
+Mature,Lunchtime,"Green Lightning",South,2019,9,123,19803
+Mature,Lunchtime,"Green Lightning",West,2018,4,109,17549
+Mature,Lunchtime,"Green Lightning",West,2018,5,183,29463
+Mature,Lunchtime,"Green Lightning",West,2018,8,155,24955
+Mature,Lunchtime,"Green Lightning",West,2019,3,62,9982
+Mature,Lunchtime,"Green Lightning",West,2019,6,78,12558
+Mature,Lunchtime,"Green Lightning",West,2019,7,81,13041
+Mature,Lunchtime,"Green Lightning",West,2019,8,67,10787
+Mature,Lunchtime,"Green Lightning",West,2019,10,67,10787
+Mature,Lunchtime,"Green Lightning",West,2019,11,97,14055
+Mature,Lunchtime,"Green Lightning",West,2019,12,96,15456
+Mature,Lunchtime,"Orange Creepies",Midwest,2019,1,10,3000
+Mature,Lunchtime,"Orange Creepies",Midwest,2019,4,13,3900
+Mature,Lunchtime,"Orange Creepies",Midwest,2019,7,71,21300
+Mature,Lunchtime,"Orange Creepies",Midwest,2019,10,65,19500
+Mature,Lunchtime,"Orange Creepies",Northeast,2019,6,58,17400
+Mature,Lunchtime,"Orange Creepies",Northeast,2019,11,86,25800
+Mature,Lunchtime,"Orange Creepies",South,2019,3,114,34200
+Mature,Lunchtime,"Orange Creepies",South,2019,4,31,9300
+Mature,Lunchtime,"Orange Creepies",South,2019,6,34,10200
+Mature,Lunchtime,"Orange Creepies",South,2019,7,62,18600
+Mature,Lunchtime,"Orange Creepies",South,2019,10,55,16500
+Mature,Lunchtime,"Orange Creepies",South,2019,12,188,53400
+Mature,Lunchtime,"Orange Creepies",West,2019,1,110,33000
+Mature,Lunchtime,"Orange Creepies",West,2019,2,76,22800
+Mature,Lunchtime,"Orange Creepies",West,2019,5,76,22800
+Mature,Lunchtime,"Orange Creepies",West,2019,6,67,20100
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2017,11,64,8576
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2017,12,91,12194
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,1,159,21306
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,3,311,41674
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,4,120,16080
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,5,52,6968
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,6,324,43416
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,9,62,8308
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2018,12,137,18358
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2019,7,61,8174
+Mature,Lunchtime,"Yellow Zonkers",Midwest,2019,11,62,8308
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2017,2,84,11256
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2017,9,92,12328
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2018,5,119,15946
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2018,6,62,8308
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2018,8,98,13132
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2018,11,41,5494
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2018,12,127,17018
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2019,3,16,2144
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2019,5,81,10854
+Mature,Lunchtime,"Yellow Zonkers",Northeast,2019,7,100,12060
+Mature,Lunchtime,"Yellow Zonkers",South,2017,4,97,12998
+Mature,Lunchtime,"Yellow Zonkers",South,2017,5,94,12596
+Mature,Lunchtime,"Yellow Zonkers",South,2017,6,114,15276
+Mature,Lunchtime,"Yellow Zonkers",South,2017,8,51,6834
+Mature,Lunchtime,"Yellow Zonkers",South,2017,10,61,8174
+Mature,Lunchtime,"Yellow Zonkers",South,2017,11,67,8978
+Mature,Lunchtime,"Yellow Zonkers",South,2018,4,141,18894
+Mature,Lunchtime,"Yellow Zonkers",South,2018,11,98,13132
+Mature,Lunchtime,"Yellow Zonkers",South,2019,5,2,268
+Mature,Lunchtime,"Yellow Zonkers",South,2019,6,25,3350
+Mature,Lunchtime,"Yellow Zonkers",South,2019,7,29,3886
+Mature,Lunchtime,"Yellow Zonkers",South,2019,8,62,8308
+Mature,Lunchtime,"Yellow Zonkers",South,2019,9,43,5762
+Mature,Lunchtime,"Yellow Zonkers",South,2019,11,37,4958
+Mature,Lunchtime,"Yellow Zonkers",West,2017,7,112,15008
+Mature,Lunchtime,"Yellow Zonkers",West,2017,12,29,3886
+Mature,Lunchtime,"Yellow Zonkers",West,2018,11,146,19564
+Mature,Lunchtime,"Yellow Zonkers",West,2018,12,310,41540
+Mature,Lunchtime,"Yellow Zonkers",West,2019,4,24,3216
+Mature,Lunchtime,"Yellow Zonkers",West,2019,5,20,2680
+Mature,Lunchtime,"Yellow Zonkers",West,2019,9,18,2412
+Mature,Lunchtime,"Yellow Zonkers",West,2019,10,72,9648
+Mature,Lunchtime,"Yellow Zonkers",West,2019,12,49,6566
