@@ -13,8 +13,8 @@ Equipped with a strong foundation in scientific principles and analytical thinki
 Below is a breakdown of some key projects by language and software. The PDF file for each project can be found in the respective folder for each language/software. The files have been renamed to match the names below.
 
 #### Python
-- Deep Learning Analysis on the MNIST Fashion Dataset
-  - https://github.com/TanushreeKumar01/data-science-portfolio/tree/801556e9ac42547c1182d2bd2be54ff6d19726ae/Python%20Projects
+- [Deep Learning Analysis on the MNIST Fashion Dataset] (https://github.com/TanushreeKumar01/data-science-portfolio/blob/8a84c111e3e756567f6edbc513cede1f1e66a79e/Python%20Projects/DeepLearning.pdf)
+  - This analysis focuses on building a deep learning model for image recognition using the Fashion MNIST dataset.
 - Reinforcement Learning Analysis using Tic-Tac-Toe
 - Understanding Reinforcement Learning through Q-Learning
 
