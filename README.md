@@ -17,9 +17,6 @@ Below is a breakdown of some key projects by language and software.
 - Reinforcement Learning Analysis using Tic-Tac-Toe
 - Understanding Reinforcement Learning through Q-Learning
 
-#### SQL
-- ETL Analysis of Life Expectancy Dataset through an Executive Summary (Group Project)
-
 #### R
 - Association Rules Analysis on the Solar Flare Dataset
 - Regression Analysis on the GLOW Study (Fracture Risk)
@@ -27,6 +24,9 @@ Below is a breakdown of some key projects by language and software.
 - Neural Network Analysis of Breast Cancer Diagnosis
 - K-Means Clustering Analysis of the MAGIC Gamma Telescope Data
 - Text Mining and Sentiment Analysis of Donald Trump’s Tweets (Group Project)
+
+#### SQL
+- ETL Analysis of Life Expectancy Dataset through an Executive Summary (Group Project)
 
 #### Tableau
 - Exploring Earthquake Activity & Forecasting Future Trends (Video)
