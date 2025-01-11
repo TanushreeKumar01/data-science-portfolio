@@ -1,14 +1,16 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 
 ## About Me
-Hi, welcome to my portfolio! 
+Hi, welcome to my portfolio! This portfolio showcases some of the projects I have worked on while pursuing my M.S. in Data Analytics at UMGC. I have worked with different languages and softwares such as Python, R, SQL, Tableau, and SAS Enterprise Miner. These projects have been a mix of solo and group projects, highlighting my ability to work independently and effectively in a team setting. 
+
+Equipped with a strong foundation in scientific principles and analytical thinking; I am currently pursuing a Master’s in Data Analytics (fifth semester). As an astrophysics graduate, I have a passion for data science and analytics. Detail-oriented with strong analytical, problem-solving, and communication skills with experience working in a team structure and as an individual contributor.
 
 ## Education
 - M.S., Data Analytics | University of Maryland Global Campus (September 2023 - Exp. August 2025)
 - B.S., Astrophysics | University of Illinois Urbana-Champaign (May 2023)
 
 ## Projects
-I have worked on numerous solo and group projects in various languages and programs throughout my degree. Below is a breakdown of some key projects by language and software.
+Below is a breakdown of some key projects by language and software. 
 
 #### Python
 - Deep Learning Analysis on the MNIST Fashion Dataset
