@@ -26,7 +26,7 @@ Below is a breakdown of some key projects by language and software. The PDF file
 - [Text Mining and Sentiment Analysis of Donald Trump’s Tweets (Group Project)](https://github.com/TanushreeKumar01/data-science-portfolio/blob/f6361d0bd3fdae56f767ad226167d21c87da1081/R%20Projects/Text%20Mining%20Group%20Project.pdf)
 
 #### SQL
-- [ETL Analysis of Life Expectancy Dataset through an Executive Summary (Group Project)](https://github.com/TanushreeKumar01/data-science-portfolio/blob/f6361d0bd3fdae56f767ad226167d21c87da1081/SQL%20Projects/ETL%20Group%20Project.pdf)
+- [ETL Analysis & Executive Summary (Group Project)](https://github.com/TanushreeKumar01/data-science-portfolio/blob/f6361d0bd3fdae56f767ad226167d21c87da1081/SQL%20Projects/ETL%20Group%20Project.pdf)
 
 #### Tableau
 - [Exploring Earthquake Activity & Forecasting Future Trends (Video)](https://github.com/TanushreeKumar01/data-science-portfolio/blob/f6361d0bd3fdae56f767ad226167d21c87da1081/Tableau%20Projects/Assignment%209.1.mp4)
